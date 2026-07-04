@@ -179,13 +179,6 @@ http://127.0.0.1:5000/
 
 ---
 
-👨‍💻 Team Members
-
-- Abhi Nali
-- Project Team Members
-
----
-
 📜 License
 
 This project is developed for educational and academic purposes.
